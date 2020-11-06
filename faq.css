@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+background:hsl(240, 73%, 65%);
+margin: 0;
+padding:0;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+}
+
+h1{
+    text-align: center;
+    padding-top: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+.container{
+    width: 1400px;
+    min-width: 1400px;    
+ background-color: white;
+    margin:0 auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-radius: 30px;
+    
+    
+}  
+#box{
+    position: relative;
+    display: block;
+    
+  
+
+}
+#woman{
+    position:absolute;
+    left: 130px;
+    right: 90px;
+     top: 24%;
+    width: 30%;
+    display: block;
+    
+   
+
+}
+#accordionExample{
+    margin-right: 50px;
+    margin-top: 25px;
+}
+#icon{
+    margin-left: 250px;
+   
+}
+
+#iconn{
+    margin-left: 236px;
+   
+}
+#iicon{
+    margin-left: 292px;
+    
+}
+#icoon{
+    margin-left: 356px;
+    
+}
+#iconi{
+    margin-left: 399px;
+    
+}
+#cubo{
+    position: absolute;
+    left: 97px;
+    bottom: 39%;
+}
